@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    border: solid 2px darkmagenta;
+    /* 16 * 4 */
+    width: 512px;
+    height: 512px;
+}
